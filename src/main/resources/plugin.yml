@@ -1,0 +1,4 @@
+name: TrapsUtil
+version: '1.0'
+main: org.fooler.trapsUtil.TrapsUtil
+api-version: '1.18'
